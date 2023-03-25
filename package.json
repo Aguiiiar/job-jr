@@ -1,0 +1,15 @@
+{
+  "name": "JobJR",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "node src/main.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
